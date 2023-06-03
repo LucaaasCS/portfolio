@@ -1,0 +1,40 @@
+body {
+    background-image: url('https://png.pngtree.com/background/20210712/original/pngtree-gradient-gray-background-with-modern-firm-shape-picture-image_1183862.jpg');
+    background-size: auto 300vh;
+    height: 100vh;
+    font-family: Arial; 
+  }
+  
+  .menu {
+    background-color: white;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  a {
+    color: black;
+    text-decoration: none;  
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-title,
+  .site-subtitle {
+    color: black;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    font-style: italic;
+  } 
+  
+  
